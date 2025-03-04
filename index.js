@@ -60,7 +60,6 @@ list.addNode(600);
 list.addNode(700);
 list.addNode(800);
 list.addNode(900);
-list.addNode(1000);
+// list.addNode(1000);
 console.log("ALL THE LIST ELEMENTS", list);
 // list.removeNode(500);
-// console.log("ALL THE LIST ELEMENTS after deleting ", list);
